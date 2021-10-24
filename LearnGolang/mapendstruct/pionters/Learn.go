@@ -1,0 +1,5 @@
+package pionters
+
+func Learn() {
+
+}
